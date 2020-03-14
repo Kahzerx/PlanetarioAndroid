@@ -43,46 +43,46 @@
     <fragment
         android:id="@+id/mercurio"
         android:name="com.example.planetario.Mercurio"
-        android:label="fragment_mercurio"
+        android:label="Mercurio"
         tools:layout="@layout/fragment_mercurio" />
     <fragment
         android:id="@+id/venus"
         android:name="com.example.planetario.Venus"
-        android:label="fragment_venus"
+        android:label="Venus"
         tools:layout="@layout/fragment_venus" />
     <fragment
         android:id="@+id/tierra"
         android:name="com.example.planetario.Tierra"
-        android:label="fragment_tierra"
+        android:label="Tierra"
         tools:layout="@layout/fragment_tierra" />
     <fragment
         android:id="@+id/marte"
         android:name="com.example.planetario.Marte"
-        android:label="fragment_marte"
+        android:label="Marte"
         tools:layout="@layout/fragment_marte" />
     <fragment
         android:id="@+id/jupiter"
         android:name="com.example.planetario.Jupiter"
-        android:label="fragment_jupiter"
+        android:label="Jupiter"
         tools:layout="@layout/fragment_jupiter" />
     <fragment
         android:id="@+id/saturno"
         android:name="com.example.planetario.Saturno"
-        android:label="fragment_saturno"
+        android:label="Saturno"
         tools:layout="@layout/fragment_saturno" />
     <fragment
         android:id="@+id/urano"
         android:name="com.example.planetario.Urano"
-        android:label="fragment_urano"
+        android:label="Urano"
         tools:layout="@layout/fragment_urano" />
     <fragment
         android:id="@+id/neptuno"
         android:name="com.example.planetario.Neptuno"
-        android:label="fragment_neptuno"
+        android:label="Neptuno"
         tools:layout="@layout/fragment_neptuno" />
     <fragment
         android:id="@+id/pluton"
         android:name="com.example.planetario.Pluton"
-        android:label="fragment_pluton"
+        android:label="Pluton"
         tools:layout="@layout/fragment_pluton" />
 </navigation>
